@@ -1,0 +1,46 @@
+,0
+0,"Empty DataFrame
+Columns: [local_run_id]
+Index: []"
+1,"   humanoid_class                          humanoid_fp action  remaining_time  capacity  local_run_id
+0         healthy  consolidated_dataset/test_00094.png   skip             720         0             1
+1          corpse  consolidated_dataset/test_00110.png   skip             705         0             1
+2          zombie  consolidated_dataset/test_00116.png   skip             690         0             1
+3         healthy  consolidated_dataset/test_00186.png   skip             675         0             1
+4          corpse  consolidated_dataset/test_00145.png   skip             660         0             1
+5          zombie  consolidated_dataset/test_00079.png   skip             645         0             1
+6          corpse  consolidated_dataset/test_00046.png   skip             630         0             1
+7         healthy  consolidated_dataset/test_00036.png   skip             615         0             1
+8          zombie  consolidated_dataset/test_00072.png   skip             600         0             1
+9          corpse  consolidated_dataset/test_00092.png   skip             585         0             1
+10        healthy  consolidated_dataset/test_00178.png   skip             570         0             1
+11         zombie  consolidated_dataset/test_00044.png   skip             555         0             1
+12        healthy  consolidated_dataset/test_00155.png   skip             540         0             1
+13        healthy  consolidated_dataset/test_00185.png   skip             525         0             1
+14         corpse  consolidated_dataset/test_00029.png   skip             510         0             1
+15        injured  consolidated_dataset/test_00050.png   skip             495         0             1
+16         corpse  consolidated_dataset/test_00034.png   skip             480         0             1
+17        healthy  consolidated_dataset/test_00021.png   skip             465         0             1
+18        healthy  consolidated_dataset/test_00075.png   skip             450         0             1
+19        healthy  consolidated_dataset/test_00136.png   skip             435         0             1
+20         zombie  consolidated_dataset/test_00091.png   skip             420         0             1
+21        healthy  consolidated_dataset/test_00163.png   skip             405         0             1
+22        healthy  consolidated_dataset/test_00015.png   skip             390         0             1
+23         zombie  consolidated_dataset/test_00179.png   skip             375         0             1
+24        injured  consolidated_dataset/test_00135.png   skip             360         0             1
+25         zombie  consolidated_dataset/test_00170.png   skip             345         0             1
+26         corpse  consolidated_dataset/test_00004.png   skip             330         0             1
+27        healthy  consolidated_dataset/test_00193.png   skip             315         0             1
+28        healthy  consolidated_dataset/test_00068.png   skip             300         0             1
+29        healthy  consolidated_dataset/test_00038.png   skip             285         0             1
+30        injured  consolidated_dataset/test_00090.png   skip             270         0             1
+31        injured  consolidated_dataset/test_00134.png   skip             255         0             1
+32         zombie  consolidated_dataset/test_00086.png   skip             240         0             1
+33         zombie  consolidated_dataset/test_00061.png   skip             225         0             1
+34         corpse  consolidated_dataset/test_00166.png   skip             210         0             1
+35        healthy  consolidated_dataset/test_00160.png   skip             195         0             1
+36         zombie  consolidated_dataset/test_00197.png   skip             180         0             1
+37        injured  consolidated_dataset/test_00162.png   skip             165         0             1
+38         corpse  consolidated_dataset/test_00049.png   skip             150         0             1
+39        healthy  consolidated_dataset/test_00125.png   skip             135         0             1
+40         corpse  consolidated_dataset/test_00071.png  scram             120         0             1"
